@@ -1,12 +1,12 @@
-.sobre__descricao {
+
+.quem-somos__descricao {
     color: #595959;
     font-size: 1.2rem;
     font-weight: 100;
 }
 
-
 @media screen and (min-width: 768px) {
-    .sobre__descricao {
+    .quem-somos__descricao {
         font-size: 1.5rem;
     }
 
